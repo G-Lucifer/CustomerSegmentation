@@ -1,0 +1,2 @@
+# CustomerSegmentation
+Minor Project
